@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A Example Post
-date: 2019-01-01 00:00:00 +0800
-category: tutorial
+title: Next Gen Info prepares for its series A fundraising!
+date: 2019-08-01 00:00:00 +0800
+category: press
 thumbnail: /style/image/thumbnail.png
 icon: book
 ---
