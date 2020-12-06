@@ -1,11 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: next-gen-info.org
+baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: Next Gen Info & Analytics
+email: contact@next-gen-info.org
+description: "Leveraging distrubted data points with Machine Learning and AI to provide elite data analytics for emerging industries."
 
 # Team names, titles and social links
 people:
@@ -17,30 +16,9 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +28,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
@@ -62,16 +40,3 @@ address:
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
-permalink: pretty
-=======
-comments :
-  gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
-
-theme: jekyll-theme-cayman
->>>>>>> 405168a7322921c79db4e5b0456a8fdb9f36d8c5
