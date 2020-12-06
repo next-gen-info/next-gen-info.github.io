@@ -62,4 +62,16 @@ address:
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 permalink: pretty
+=======
+comments :
+  gitalk :
+    clientID : 
+    clientSecret : 
+    repo : 
+    owner : 
+    admin : 
+
+theme: jekyll-theme-cayman
+>>>>>>> 405168a7322921c79db4e5b0456a8fdb9f36d8c5
