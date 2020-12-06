@@ -1,91 +1,30 @@
-# Theme pinghsu-jekyll
+Agency Jekyll theme
+====================
 
-a jekyll theme which is based on a typecho theme pinghsu
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-## Preview
+# How to use
 
-[Lightfish Blog](http://lightfish.cn)
+###Portfolio 
 
-![Screenshot](https://raw.githubusercontent.com/lightfish-zhang/pinghsu-jekyll/master/preview.png)
+Portfolio projects are in '/_posts'
 
-![Screenshot](https://raw.githubusercontent.com/lightfish-zhang/pinghsu-jekyll/master/preview2.png)
+Images are in '/img/portfolio'
 
-![Screenshot](https://raw.githubusercontent.com/lightfish-zhang/pinghsu-jekyll/master/preview3.png)
+###About
 
-## How to start
+Images are in '/img/about/'
 
-- fill the file `_config.yml`
+###Team
 
-example
+Team members and info are in '_config.yml'
 
-```yaml
-name: Next Gen Info
-author: Next Gen Info
-url: http://nextgeninfo.org
-baseurl:
-description: Providing the future of data analytics
-github_username:
-github:
-plugins: [jekyll-paginate]
-permalink: /:year-:month-:day-:title
-paginate: 12
-paginate_path: "/page/:num/"
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-highlighter: rouge
-markdown: kramdown
-comments :
-  gitalk :
-    clientID : xxx
-    clientSecret : xxx
-    repo :
-    owner :
-    admin :
-
-```
-
-- add your post in path `./_post`, format :
-
-```md
----
-layout: post
-title: A Example Post
-date:   1970-01-01 00:00:00 +0800
-category: tutorial
-thumbnail: /style/image/thumbnail.jpg
-icon: book
----
+Images are in '/img/team/'
 
 
-* content
-{:toc}
+# Demo
 
-## sub title
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
-page...
-
-## about thumbnail
-
-add the thumbnail url
-
-## about icon
-
-such as book, code, web, chat, note, game, link, design, image
-```
-
-some config about gitalk, please reference to [gitalk](https://github.com/gitalk/gitalk)
-
-run `bundle install` and `jekyll server` to preview site on you computer, more question about jekyll, reference to [jekyll](http://jekyllrb.com)
-
-
-
-## Developer
-
-- [chakhsu](https://github.com/chakhsu)
-- [lightfish-zhang](https://github.com/lightfish-zhang)
-
-## Thanks
-
-- [jekyll](http://jekyllrb.com) git page engine
-- [pinghsu](https://github.com/chakhsu/pinghsu), a typecho theme, it's a great design.
-- [gitalk](https://github.com/gitalk/gitalk) git page comment engine, it depends on github issue.
-- [smoothscroll](https://www.smoothscroll.net/mac/) SmoothScroll will give your mouse wheel (Finder, Safari, Chrome, etc.) buttery smooth scrolling
+=========
+For more details, read [documentation](http://jekyllrb.com/)

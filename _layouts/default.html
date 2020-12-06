@@ -3,13 +3,19 @@
 
   {% include head.html %}
 
-<body class="bg-grey" gtools_scp_screen_capture_injected="true">
+
+    <body id="page-top" class="index">
 
     {% include header.html %}
-
-    {{ content }}
-    
+    {% include services.html %}
+    {% include portfolio_grid.html %}
+    {% include about.html %}
+    {% include team.html %}
+    {% include clients.html %}
+    {% include contact.html %}
     {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
 
-  </body>
+    </body>
 </html>
