@@ -8,22 +8,25 @@ description: "Leveraging distrubted data points with Machine Learning and AI to 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Craig Carsons
   pic: 1
-  position: Lead Designer
+  position: Cheif Innovation Officer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/craig-carsons-582b29174/
+- name: Jin Lee
+  pic: 1
+  position: Senior Developer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jin-lee-048918190/
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: linkedin.com
+    url: https://www.linkedin.com/company/73919027
 
 
 # Postal address (add as many lines as necessary)
