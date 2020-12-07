@@ -10,7 +10,7 @@ description: "Leveraging distrubted data points with Machine Learning and AI to 
 people:
 - name: Craig Carsons
   pic: 1
-  position: Cheif Innovation Officer
+  position: Chief Innovation Officer
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/craig-carsons-582b29174/
@@ -20,6 +20,12 @@ people:
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/jin-lee-048918190/
+- name: Nathan Phillips
+  pic: 3
+  position: Sales Lead and Account Manager
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/nathan-phillips-0607/
 
 
 
